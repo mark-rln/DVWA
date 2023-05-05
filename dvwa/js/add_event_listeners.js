@@ -22,3 +22,5 @@ function addEventListeners() {
 }
 
 addEventListeners();
+
+var solve_button = document.getElementById ("solve");
